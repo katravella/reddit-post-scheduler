@@ -1,0 +1,1 @@
+<? if($results) { echo "yay"; } else { echo "no"; } 
