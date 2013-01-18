@@ -5,4 +5,4 @@ A reddit bot service for moderators to schedule threads to be posted in the futu
 
 ---
 
-Not public for the time being, sorry! I'll repost it a few days, after we can clean up the code.
+Still under active development, so pardon the mess.
