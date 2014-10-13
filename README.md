@@ -1,3 +1,8 @@
+ABANDONED
+=========
+
+Use AutoModerator instead.
+
 reddit-post-scheduler
 =====================
 
@@ -7,4 +12,3 @@ A reddit bot service for moderators to schedule threads to be posted in the futu
 
 ~~Still under active development, so pardon the mess.~~
 
-Abandoned.  Message /u/Deimorz to set up AutoModerator to schedule posts.
